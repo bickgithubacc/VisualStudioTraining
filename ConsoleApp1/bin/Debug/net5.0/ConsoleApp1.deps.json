@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "KP.StringLanguageExtensions": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "KP.StringLanguageExtensions/1.0.0": {
+        "runtime": {
+          "lib/net5.0/StringLanguageExtensions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KP.StringLanguageExtensions/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L9XFFvD/HeoHQPVQ33SkpHAAGNZJ8MyIcxqdbxJj1dwKzAqFDXyWnc64DP8PuSR55oZHMcq0eqPopv0UUiWBoQ==",
+      "path": "kp.stringlanguageextensions/1.0.0",
+      "hashPath": "kp.stringlanguageextensions.1.0.0.nupkg.sha512"
+    }
+  }
+}

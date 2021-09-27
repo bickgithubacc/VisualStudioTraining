@@ -1,0 +1,16 @@
+﻿
+Y,All Done,Y
+N,Not Done Yet,Y
+T,Timed Out,Y
+Q,Quit,Y
+E,Error,Y
+J,No JavaScript,Y
+B,Browser Version,Y
+C,CCIVR attempted or completed,Y
+X,CCIVR Incomplete/Claimant or System stopped,Y
+I,Ineligible,Y
+R,ICC Completed, Restart Needed,Y
+Z,ICC Restart Needed / Completed if  ICACRO = R,Y
+S,IIC /ICC OCS or IVR Status check Business Rule Sto,Y
+P,Print your transaction, then it will be Y = done,Y
+G,User proceeded to the GCP PUA app,Y

@@ -5,4 +5,17 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="KP.StringLanguageExtensions" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Json\PersonBirthdays.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TextFiles\All_Done_Codes.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
